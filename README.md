@@ -1,3 +1,4 @@
+
 # Movies Data Analysis in Python
 
 ## Overview
@@ -62,7 +63,13 @@ Here are some of the key steps performed in the analysis:
 
 - Correlation Heatmap: Displayed a heatmap showing correlations between numerical features such as budget, gross revenue, votes, and IMDb score. The heatmap revealed strong correlations between budget and gross revenue, indicating a direct relationship.
 
+<img width="931" alt="Screenshot 2024-09-21 at 11 13 03" src="https://github.com/user-attachments/assets/5dabf8f6-16ca-4c10-8cc9-c806b96c6d53">
+
+
 - Scatter Plot of Budget vs. Gross: Visualized how movie budgets relate to gross revenue. The scatter plot shows that higher-budget films generally earn more, but some low-budget films can become massive hits.
+
+<img width="944" alt="Screenshot 2024-09-21 at 11 12 33" src="https://github.com/user-attachments/assets/a6d9b162-947a-4155-b97a-539444de1b85">
+
 
 ## Tools and Libraries
 
@@ -79,3 +86,4 @@ Here are some of the key steps performed in the analysis:
 ## Conclusion
 
 This analysis provides insights into what factors contribute most to a movie's success at the box office, particularly the strong relationship between a movie’s budget and its gross revenue. Other elements, such as genre and director, also play a role. By analyzing these trends, one can better predict movie performance and make data-driven decisions in the film industry.
+
